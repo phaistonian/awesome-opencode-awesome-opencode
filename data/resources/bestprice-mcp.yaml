@@ -1,0 +1,8 @@
+name: BestPrice MCP
+repo: https://github.com/TheBestCo/bestprice-mcp
+tagline: Read-only shopping for Greece via a keyless remote MCP server, with a ready opencode.json
+description: Official BestPrice.gr MCP server for OpenCode. It provides read-only shopping decisions, product search, live Greek merchant offers with delivered totals, and price history from the public endpoint https://mcp.bestprice.gr/mcp. No account or API key is needed, and it never checks out or places orders.
+tags:
+  - mcp-server
+  - shopping
+  - price-comparison
